@@ -5,3 +5,5 @@ Programming 12: Color Game
   - Not super useful for this game, as after 2 seconds, the time expires and you die.
 - EXE version requires Java 8 to run
 - Code also in 'files' folder so they can be viewed directly in GitHub
+
+- All data and code in ColorGame.zip
